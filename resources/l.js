@@ -333,6 +333,15 @@ module.exports = [
         icon: 'http://losttype.com/favicon.ico',
     },
     {
+        name: 'LuckyResumeMaker.com',
+        categories: [jobs.resumeBuilders],
+        description: 'Make a job-winning resume in minutes. ATS friendly, free PDF download, no subscription or sign-up required.',
+        links: {
+            [website]: 'https://luckyresumemaker.com/',
+        },
+        icon: 'https://luckyresumemaker.com/luckyresumemaker-icon-solid.png',
+    },
+    {
         name: 'Lukasz Adam',
         categories: [assets.illustrations],
         description:
